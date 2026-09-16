@@ -29,5 +29,3 @@ jobs:
 
       - name: Run tests
         run: npm run test
-
-# Harmless workflow change for automatic-approval refusal test.
